@@ -1,0 +1,56 @@
+.commitee{
+    margin-left: 10%;
+    margin-top:5%;
+    margin-bottom: 2%;
+    letter-spacing: 0.5;
+    width: 75%;
+    padding: 2%;
+    border: 0.5px solid gray;
+    border-radius: 5px;
+    box-shadow: 4px 4px #888888;
+}
+.commiteeEntry{
+    cursor: pointer;
+    border-top: 1px rgb(175, 173, 173) solid;
+}
+.commitee h1{
+    font-size: 35px;
+    color: rgb(32, 25, 92);
+}
+.commitee h3{
+    font-size: 18px;
+    color: rgb(42, 42, 175);
+}
+.commiteeEntry h3{
+    font-size: 23px;
+    color: rgb(0, 0, 0);
+}
+.panel1{
+    cursor: auto;
+    padding-left: 3%;
+    padding-bottom: 3%;
+    display: none;
+}
+.panel2{
+    cursor: auto;
+    padding-left: 3%;
+    padding-bottom: 3%;
+    display: none;
+}
+.panel3{
+    cursor: auto;
+    padding-left: 3%;
+    padding-bottom: 3%;
+    display: none;
+}
+.panel4{
+    cursor: auto;
+    padding-left: 3%;
+    padding-bottom: 3%;
+    display: none;
+}
+.info{
+    position: relative;
+    font-size: 18px;
+    color: rgb(19, 19, 95);
+}
